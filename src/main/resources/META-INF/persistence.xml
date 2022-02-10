@@ -18,8 +18,8 @@
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
             <property name="javax.persistence.jdbc.url"    value="jdbc:mysql://localhost:3306/tasks" />
-            <property name="javax.persistence.jdbc.user" value="root" />
-            <property name="javax.persistence.jdbc.password" value="bazadedate" />
+            <property name="javax.persistence.jdbc.user" value="Eewe" />
+            <property name="javax.persistence.jdbc.password" value="Wewe" />
 
             <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL57Dialect"/>
             <property name="hibernate.hbm2ddl.auto" value="create" />
